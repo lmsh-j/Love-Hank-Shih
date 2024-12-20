@@ -42,3 +42,18 @@ print('Hello, world')
 
 - [ ] todo
 - [x] done
+
+| Name | Age | Profession |
+| ---- | --- | ---------- |
+| Jack | 18 | Student |
+| Hank | 19 | Love |
+
+* A
+  * Apple
+  * Ant
+* B
+  * Bear
+  * Beak
+* C
+  * Candy
+  * Company 
